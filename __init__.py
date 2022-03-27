@@ -13,7 +13,7 @@ bl_info = {
     "support": "TESTING",  # サポートレベル
     "category": "3D View",  # カテゴリ名
     "description": "Puzzle Anim",  # 説明文
-    "location": "3D View: Puzzle Anim",  # 機能の位置付け
+    "location": "View3D > Sidebar > Edit Tab",  # 場所
     "warning": "",  # 注意点やバグ情報
     "doc_url": "https://github.com/SaitoTsutomu/Puzzle-Anim",  # ドキュメントURL
 }
