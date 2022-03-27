@@ -10,7 +10,7 @@ bl_info = {
     "author": "tsutomu",  # 制作者名
     "version": (1, 0),  # バージョン
     "blender": (3, 1, 0),  # 動作可能なBlenderバージョン
-    "support": "COMMUNITY",  # サポートレベル
+    "support": "TESTING",  # サポートレベル
     "category": "3D View",  # カテゴリ名
     "description": "Puzzle Anim",  # 説明文
     "location": "3D View: Puzzle Anim",  # 機能の位置付け
