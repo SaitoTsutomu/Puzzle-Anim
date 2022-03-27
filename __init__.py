@@ -292,6 +292,7 @@ class CMA_PT_make(bpy.types.Panel):
     bl_space_type = "VIEW_3D"
     bl_region_type = "UI"
     bl_category = "Edit"
+    bl_context = "objectmode"
 
     def draw(self, context):
         self.layout.operator(CMA_OT_sample.bl_idname, text=CMA_OT_sample.bl_label)
