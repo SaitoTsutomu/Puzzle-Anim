@@ -4,7 +4,7 @@ Create animation of puzzle.
 
 ## Installation
 
-- Download https://github.com/SaitoTsutomu/Puzzle-Anim/archive/refs/heads/main.zip
+- Download https://github.com/SaitoTsutomu/Puzzle-Anim/archive/refs/heads/master.zip
 - Start Blender.
 - Edit menu -> Preferences
   - Select the "Add-ons" tab.
